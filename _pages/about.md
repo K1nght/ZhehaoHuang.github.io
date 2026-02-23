@@ -33,14 +33,14 @@ I am always open to academic discussions and potential collaborations and and pl
 - *2024.09*: &nbsp;🎉🎉 Our paper "[Unified Gradient-Based Machine Unlearning with Remain Geometry Enhancement](https://neurips.cc/virtual/2024/poster/94324)" is accepted by **NeurIPS 2024** as **Spotlight**!
 - *2024.04*: &nbsp;🎉🎉 Our paper "[Online Continual Learning via Logit Adjusted Softmax](https://openreview.net/forum?id=MyQKcQAte6)" is accepted by **TMLR 2024**.
 
-# 📝 Featured Publications 
+# 📝 Featured Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/VL-RouterBench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VL-RouterBench: A Benchmark for Vision-Language Model Routing](https://arxiv.org/abs/2512.23562)
 
-**Zhehao Huang**, Baijiong Lin, Jingyuan Zhang, Yuhang Liu, Ning, Lu, Tao Li, Xiaolin Huang
+**Zhehao Huang**<sup>\*</sup>, Baijiong Lin<sup>\*</sup>, Jingyuan Zhang, Yuhang Liu, Ning Lu, Tao Li, Xiaolin Huang
 
 [**Code**](https://github.com/K1nght/VL-RouterBench) \| [**Dataset**](https://huggingface.co/datasets/KinghtH/VL-RouterBench)
 
@@ -66,7 +66,7 @@ This paper identifies that LRMs struggle with strict instruction following despi
 
 [T2I-ConBench: Text-to-Image Benchmark for Continual Post-training](https://arxiv.org/abs/2505.16875)
 
-**Zhehao Huang**, Yuhang Liu, Yixin Lou, Zhengbao He, Mingzhen He, Wenxing Zhou, Tao Li, Kehan Li, Zeyi Huang, Xiaolin Huang
+**Zhehao Huang**<sup>\*</sup>, Yuhang Liu<sup>\*</sup>, Yixin Lou<sup>\*</sup>, Zhengbao He, Mingzhen He, Wenxing Zhou, Tao Li, Kehan Li, Zeyi Huang, Xiaolin Huang
 
 [**Code**](https://github.com/K1nght/T2I-ConBench) \| [**Project**](https://k1nght.github.io/T2I-ConBench/) \| [**Dataset**](https://huggingface.co/datasets/T2I-ConBench/T2I-ConBench)
 
