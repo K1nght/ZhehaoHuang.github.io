@@ -26,6 +26,14 @@ docker run --rm \
   jekyll/jekyll:4 \
   jekyll build
 
+if [ $? -ne 0 ]; then
+  echo ""
+  echo "❌ Docker 构建失败！请检查："
+  echo "   1. Docker Desktop 是否已启动运行"
+  echo "   2. 运行 'docker info' 确认 Docker 守护进程状态"
+  exit 1
+fi
+
 echo ""
 echo "✅ 构建完成！启动本地预览服务器..."
 echo "👉 请在浏览器中打开: http://127.0.0.1:${PORT}"
