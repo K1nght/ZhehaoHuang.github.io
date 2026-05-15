@@ -19,13 +19,14 @@ redirect_from:
 # 🧑‍💻 About Me
 I am currently a fourth-year Ph.D. student (Zhiyuan Honors) at the [Institute of Image Processing and Pattern Recognition](http://www.pami.sjtu.edu.cn/En/Home), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), supervised by [Prof. Xiaolin Huang](http://www.pami.sjtu.edu.cn/xiaolin). My research focuses on **efficient adaptation methods** for large language models (LLMs) and vision-language models (VLMs), with particular interests in **continual learning** and its applications to **intelligent agents**. 
 
-I am now visiting the MMLab at The Chinese University of Hong Kong (CUHK), under [Prof. Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/).
+I have visited the MMLab at The Chinese University of Hong Kong (CUHK), under [Prof. Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/), at 2026.01-2026.05.
 
 I am always open to academic discussions and potential collaborations and and please feel free to contact me via email / wechat: HzKinght
 
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Our paper "[Compress then Merge: From Multiple LoRAs into One Low-Rank Adapter]()" is accepted by **ICML 2026** as **regular paper**! Congrats to collaborators!
 - *2026.04*: &nbsp;🎉🎉 Our paper "[VL-RouterBench: A Benchmark for Vision-Language Model Routing](https://arxiv.org/abs/2512.23562)" is accepted by **CVPR 2026** as **Highlight**!
 - *2026.02*: &nbsp;🎉🎉 Our paper "[RAIN-Merging: A Gradient-Free Method to Enhance Instruction Following in Large Reasoning Models with Preserved Thinking Format](https://openreview.net/forum?id=PO2iULmu5e)" is accepted by **ICLR 2026** as **Oral**!
 - *2026.02*: &nbsp;🎉🎉 Our paper "[Remaining-data-free Machine Unlearning by Suppressing Sample Contribution](https://openreview.net/forum?id=3iw5t2W41F)" is accepted by **ICLR 2026** as **Poster**. Congrats to collaborators!
@@ -45,7 +46,7 @@ I am always open to academic discussions and potential collaborations and and pl
 
 **Zhehao Huang**<sup>\*</sup>, Baijiong Lin<sup>\*</sup>, Jingyuan Zhang, Yuhang Liu, Ning Lu, Tao Li, Xiaolin Huang
 
-[**Code**](https://github.com/K1nght/VL-RouterBench) \| [**Dataset**](https://huggingface.co/datasets/KinghtH/VL-RouterBench) \| [**Poster**]() \| [**Slides**]() (coming soon)
+[**Code**](https://github.com/K1nght/VL-RouterBench) \| [**Dataset**](https://huggingface.co/datasets/KinghtH/VL-RouterBench) \| [**Poster**](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/38113.png?t=1778743408.1674538) \| [**Slides**](https://cvpr.thecvf.com/media/cvpr-2026/Slides/38113.pdf) \| [**Video**](https://www.youtube.com/watch?v=wWRd6kfbHvw)
 
 This paper addresses the lack of systematic evaluation for VLM routing by introducing **VL-RouterBench**, a comprehensive benchmark covering 14 datasets and 17 models that measures the trade-offs through evaluating 10 routing methods, it reveals a "routability gain" but highlights a gap between current routers and the Oracle, providing an open-source toolchain to advance more efficient, VLM routing deployments.
 </div>
@@ -58,7 +59,7 @@ This paper addresses the lack of systematic evaluation for VLM routing by introd
 
 **Zhehao Huang**, Yuhang Liu, Baijiong Lin, Yixin Lou, Zhengbao He, Hanling Tian, Tao Li, Xiaolin Huang
 
-[**Code**](https://github.com/K1nght/RAIN-Merging) \| [**Project**]() \| [**Poster**]() \| [**Slides**]() (coming soon)
+[**Code**](https://github.com/K1nght/RAIN-Merging) \| [**Poster**](https://iclr.cc/media/PosterPDFs/ICLR%202026/10009681.png?t=1777714208.782498) \| [**Slides**](https://iclr.cc/media/iclr-2026/Slides/10009681.pdf)
 
 This paper identifies that LRMs struggle with strict instruction following despite reasoning, and introduces **RAIN-Merging**, a gradient-free method that integrates instruction-tuned features into the LRM's null space to preserve structured "thinking" formats while significantly enhancing constraint adherence across various scales and tasks without compromising reasoning quality.
 </div>
@@ -124,6 +125,7 @@ This paper shows that inter-class imbalance in online continual learning is fund
 <span class='anchor' id='educations'></span>
 # 📖 Educations
 - *2022.09 - 2027.06 (expected)*, Ph.D. Student, Control Science and Engineering, Shanghai Jiao Tong University, China
+- *2026.01 - 2026.05*, Research Assistant, MMLab, The Chinese University of Hong Kong (CUHK), China
 - *2018.09 - 2022.06*, B.Eng., Automation, Shanghai Jiao Tong University, China
 
 <span class='anchor' id='experience'></span>
